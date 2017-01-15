@@ -1,4 +1,3 @@
-"# NoSQLDatastoreAdapters" 
 ===============================================================
 Specific adapters for the NoSQL datastore Generic APIs version 1.5
 ===============================================================
